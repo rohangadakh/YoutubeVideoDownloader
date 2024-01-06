@@ -4,9 +4,9 @@ This GitHub repository contains a React application for a video downloader with 
 **Components:**
 **App Component:**
 
-**State variables:**
-**videoUrl:** Holds the YouTube video URL entered by the user.
-**selectedOption:** Tracks the selected download option ('mp4' or 'mp3').
+**State variables:**  
+**videoUrl:** Holds the YouTube video URL entered by the user.  
+**selectedOption:** Tracks the selected download option ('mp4' or 'mp3').                                                                                                                                  
 **error:** Manages the error state for invalid inputs.
 **textIndex:** Index to rotate through different texts in the navbar.
 **typewriter:** State to store the Typewriter instance for dynamic updates.
